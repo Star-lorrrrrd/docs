@@ -22,3 +22,17 @@ As Valve built their (new for the time) Goldsrc engine on top of the Quake Engin
 ## How Rocket Jump Works
 
 TODO (TF2 wiki seems like a decent source)
+
+## this is not how to do rocket jump but what it's takes to do this
+
+Hi My name is starLord and I been doing RJing for an bit now,and I want to know how to help with yall with this project?
+
+And I want you to answer some question?
+
+what tier rocket jumper do I need to do this man,becase your rocket jumping section has nothing on it?
+
+and also is there an better place to talk here please,thx if you do?
+
+so sorry and please don't accidently post this, thinking it's the guid to do rocket jumping that would confues pepole,that would be bad.
+
+thx and in case I don't see ya "good afternoon,goodevennig and good night" thx
